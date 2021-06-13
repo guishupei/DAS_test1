@@ -1,9 +1,10 @@
 ---
-title: "Untitled"
-author: "GUI"
-date: "2021/6/13"
-output: html_document
+title: "My Report"
+author: "Craig Alexander"
+date: "2021/06/07"
+output: github_document 
 ---
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
